@@ -1,0 +1,95 @@
+                                                                                             Name:  G Navinash  
+Phone:  9121933278  
+Email ID:  navinashnavi0@gmail.com  
+SUMMARY  
+Looking for a challenging role in a  reputable  organization to utilize my technical, database, and 
+management skills  for the growth of the organization as well as to enhance my knowledge about new 
+and emerging trends in the IT sector . 
+• GitHub  Link:  https://github.com/Navi0404  
+• LinkedIn Link: https://www.linkedin.com/in/gnavinash/  
+• Portfolio Link:  https://navi0404.github.io/Portfolio/  
+KEY SKILLS  
+• MS - Excel  
+• Python Programming Language , Core Java  
+• MY SQL , Oracle, SQL Server  
+• Machine Learning  
+• Amazon Web Services (AWS)  
+• Tableau  
+• LLM   
+• CHAT GPT 3.5 
+• Docker and Kubernetes  
+• OPEN AI  
+• Deep Learning  
+• Natural Language processing  
+• POSTMAN  
+• Software Testing, SDLC, STLC  
+• Selenium Automation Tool  
+• IDE: Jupyter Notebook, Vs Code,  Google  Collab.  
+ 
+PROFESSIONAL SUMMARY  
+Program Analyst Trainee, Cognizant Technology Solutions (Internship)        February 2023 - August 2023  
+• Developing Automation Test scripts using Python with Selenium.  
+• Creating automation test scripts for the regression test cases and test scenarios.  
+• Creating a daily status report.  
+• Active attendee in Scrum and Defect triage calls with the Dev Team.  
+Artificial Intelligence Developer, Intellypod (Internship)                                              January 2024 – Present       
+• Utilizing OpenAI GPT chatbot technology for developing an AI chatbot  
+• Conducting web scraping to collect data from various websites  
+• Storing collected data in a database for further analysis and use  
+• Testing web URLs using Postman for functionality and performance evaluation  
+• Engaging in continuous learning of new AI -related technologies and advancements  
+ 
+PROJECTS  
+● Title: Exploratory Data Analysis and ML Model Building on YouTube Dataset (Python, ML)  
+ 
+Perform data analysis on the YouTube dataset using pandas’  libraries, and perform exploratory  
+data analysis and build an ML model to predict likes based on features like s, and views.  
+Description:  
+• Conducted meticulous data cleaning to ensure data quality and reliability.  
+• Performed comprehensive data preprocessing, including feature engineering, for optimal                                                                                               Name:  G Navinash  
+Phone:  9121933278  
+Email ID:  navinashnavi0@gmail.com  
+• model performance.  
+• Developed and implemented the Linear and Logistic Regression algorithm to build a highly  
+• accurate model to predict likes.  
+ 
+Key skills : Data reading, Data Wrangling, Correlation, EDA (Exploratory data analysis), ML Model Building.  
+ 
+● Title : Crop Prediction Using Machine Learning  
+Developed a crop prediction project using machine learning techniques. This project aims to forecast 
+the suitable crop for cultivation based on relevant data, contributing to precision agriculture and 
+sustainable farming practices.  
+Description :  
+• Import and use various libraries like NumPy, Pandas, Seaborn, and matplotlib.  
+• Data wrangling techniques for cleaning and sorting data.  
+• Using the Seaborn library plot different graphs, and get useful insights  from  that.  
+• Using Machine Learning to Train and Test the data and model -building.  
+• Developed and implemented with Logistic Algorithm to build a highly accurate model to 
+predict the crop  
+ 
+Key skills:  Data reading, EDA Process,  Python, SQLite, Flask, Machine Learning, VS Code, GitHub.  
+● Title:  LLM PDF Reader Chatbot by Using OPENAI  
+Developed a PDF Reader Chatbot by Using the LLM model with the help of OPEN AI CHATGPT 3.5  
+ 
+Description :  
+• Developed a chatbot using Python programming language along with essential libraries as highlighted 
+in key skills.  
+• Conducted functionality testing using Postman.  
+• Deployed the chatbot to server level utilizing NSSM and Windows Server infrastructure.  
+• Enabled the chatbot to read PDF content and provide Q&A functionality.  
+ 
+Key skills : Python, Vs code, LLM, OPENAI API, POSTMAN, NSSM, CHATGPT 3.5 , Flask  
+ 
+HACKATHONS/OTHER CERTIFICATIONS  
+• SQL: Basic (Hacker Rank)  
+• SQL: Introduction to Database and SQL Querying (IBM)  
+• Data Analytics: Great Learning Academy  
+ 
+EDUCATION  
+Course  Institution  Year  CGPA  
+B. Tech   ( EEE )  Gokaraju Rangaraju  Institute of Engineering 
+and Technology Hyderabad  2020 -2023 7.5 
+Diploma ( EEE )  Government Polytechnic College of 
+Mahabubnagar  2017 -2020  7.1 
+10th Std Fathima Vidhyalayam Mahabubnagar  2016 -2017  8.5 
+ 
